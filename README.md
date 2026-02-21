@@ -18,7 +18,7 @@ My focus areas include:
 
 Analysis of a simulated security incident involving unauthorized access attempts and system compromise.
 
-🔗 [View Project]https://github.com/ArmanyOmale/soc-incident-report-1.git
+🔗 [View Project](https://github.com/ArmanyOmale/soc-incident-report-1.git)
 
 ---
 
@@ -26,7 +26,7 @@ Analysis of a simulated security incident involving unauthorized access attempts
 
 Investigation of a suspicious email to identify indicators of compromise and social engineering techniques.
 
-🔗 [View Project](LINK HERE)
+🔗 [View Project](https://github.com/ArmanyOmale/phishing-email-analysis-1.git)
 
 ---
 
