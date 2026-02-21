@@ -34,7 +34,7 @@ Investigation of a suspicious email to identify indicators of compromise and soc
 
 Comprehensive audit of a fictional organization’s security controls, compliance posture, and risk exposure.
 
-🔗 [View Project](LINK HERE)
+🔗 [View Project](https://github.com/ArmanyOmale/security-audit-case-study)
 
 ## Skills Demonstrated
 
